@@ -62140,7 +62140,7 @@
             "slash",
             "ninja"
           ],
-          "description": "A fast forward sword slash: a short-lived hit arc in front of the ninja. Chains quickly; works in the air.",
+          "description": "A fast forward sword slash: a short-lived hit arc in front of the ninja. Supports a faster two-hit test cadence.",
           "params": [
             {
               "key": "reach",
@@ -62166,7 +62166,7 @@
               "key": "cooldown",
               "label": "Cooldown",
               "type": "number",
-              "default": 0.24,
+              "default": 0.12,
               "min": 0,
               "max": 3,
               "step": 0.01,
@@ -62759,13 +62759,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62776,13 +62776,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62793,13 +62793,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62810,13 +62810,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62827,13 +62827,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62844,13 +62844,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62861,13 +62861,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62878,13 +62878,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "moveTo",
@@ -62923,13 +62923,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62940,13 +62940,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62957,13 +62957,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62974,13 +62974,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -62991,13 +62991,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63008,13 +63008,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63025,13 +63025,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63042,13 +63042,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "moveTo",
@@ -63134,13 +63134,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63151,13 +63151,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63168,13 +63168,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63185,13 +63185,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63202,13 +63202,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63219,13 +63219,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63236,13 +63236,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63253,13 +63253,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "moveTo",
@@ -63434,13 +63434,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63451,13 +63451,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63468,13 +63468,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63485,13 +63485,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63502,13 +63502,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63519,13 +63519,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63536,13 +63536,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63553,13 +63553,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63570,13 +63570,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63587,13 +63587,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "expect",
@@ -63643,13 +63643,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63660,13 +63660,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63677,13 +63677,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63694,13 +63694,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63711,13 +63711,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63728,13 +63728,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63745,13 +63745,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "move",
@@ -63762,13 +63762,13 @@
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "press",
               "intent": "secondary",
               "hold": 0.06,
-              "after": 0.2
+              "after": 0.12
             },
             {
               "do": "moveTo",
@@ -64361,6 +64361,18 @@
           ]
         }
       ]
+    },
+    "metadata": {
+      "llmTest": {
+        "purpose": "Safe LLM-authored gameplay test",
+        "changes": [
+          "Katana cooldown reduced from 0.24s to 0.12s",
+          "Playthrough melee pairs now use 0.12s spacing to exercise faster repeat-slash input"
+        ],
+        "limitations": [
+          "Grapple cooldown/timing, player trails, and input-windowed distinct combo states are not changed because this DSF does not expose their schemas."
+        ]
+      }
     }
   }
 }
